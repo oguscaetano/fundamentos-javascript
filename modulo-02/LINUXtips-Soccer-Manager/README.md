@@ -1,10 +1,10 @@
-# ⚽️ LINUXtips Soccer Manager
+# ⚽️ Xablau Soccer Manager
 
 Neste projeto você colocará em prática os conhecimentos de lógica de programação com JavaScript, focando em manipulação de arrays e iterações complexas.
 
 <div align="center">
   <img src="./pinguim-coach.png" alt="drawing" width="300"/>
-  <p>Toskão Coach</p>
+  <p>Tux Coach</p>
 </div>
 
 ## Conceitos Praticados
@@ -59,14 +59,14 @@ Exemplo de saída esperada:
 
 ### 5 - Adição de patrocinador
 
-A LINUXtips quer entrar para o ramo futebolístico e resolveu patrocinar vários clubes. Adicione a LINUXtips como patrocinadora de todos os times disponíveis.
+A Xablau quer entrar para o ramo futebolístico e resolveu patrocinar vários clubes. Adicione a Xablau como patrocinadora de todos os times disponíveis.
 Após adicionar, exiba na tela o nome do time e quais são seus patrocinadores.
 Exiba da seguinte forma:
 
 ```js
 [
-  "Patrocinadores do Real Madrid: Emirates, Adidas, HP, LINUXtips",
-  "Patrocinadores do Barcelona: Nike, Spotify, Beko, LINUXtips",
+  "Patrocinadores do Real Madrid: Emirates, Adidas, HP, Xablau",
+  "Patrocinadores do Barcelona: Nike, Spotify, Beko, Xablau",
   ...
 ]
 ```
