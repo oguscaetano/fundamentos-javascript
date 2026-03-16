@@ -1,4 +1,4 @@
-# 🦸‍♂️ Liga JS
+# Capitão JS
 
 Você é o `Capitão JS` da **Liga JS**, uma equipe de super-heróis que usa JavaScript pra salvar o mundo.
 Cada requisito é uma missão.
