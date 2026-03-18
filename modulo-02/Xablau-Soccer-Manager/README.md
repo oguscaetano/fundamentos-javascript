@@ -116,8 +116,6 @@ Exiba o resultado da seguinte forma:
 
 Também exiba a quantidade de jogos.
 
-> 💡 A quantidade de jogos segue a fórmula: `(n * (n - 1)) / 2`, onde `n` é a quantidade de times.
-
 ---
 
 ### 8 - Campeonato

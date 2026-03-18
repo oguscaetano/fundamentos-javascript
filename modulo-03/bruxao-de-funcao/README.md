@@ -161,6 +161,6 @@ Crie uma função chamda `criarAlunoAleatorio`.
 
 Ela deve:
 
-- adicionar um nome no array `nomes`
+- adicionar um nome no array `alunos`
 - atribuir uma casa aleatória no array `casasAlunos`
 - retornar o nome e casa do novo aluno no formato: "{NOME} adicionado na casa {NOMECASA}"
